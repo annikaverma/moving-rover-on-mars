@@ -57,7 +57,6 @@ function my_keydown(e)
 			console.log("right");
 		}
 }
-
 function up()
 {
 	if(rover_y >=0)
